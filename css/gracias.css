@@ -1,0 +1,34 @@
+body{
+  background: url(../images/slider/1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #000;
+}
+
+.bg{
+  width: 100%;
+  max-width: 500px;
+  background: rgba(0,0,0,0.7);
+  padding: 30px;
+  text-align: center;
+  margin: auto;
+  margin-top: 20%;
+
+}
+.bg h1{
+  font-size: 40px;
+  color: #10C957;
+}
+.bg a{
+  font-size: 30px;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px 25px;
+  background: #2B81D2;
+  border-radius: 10px;
+}
+.bg a:hover{
+  opacity: 0.7;
+}
